@@ -1,4 +1,4 @@
-Weekend Homework
+## Weekend Homework
 
 #### Demo Site
 - [Demo](highchart-intro-3.bitballoon.com)
