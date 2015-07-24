@@ -1,7 +1,7 @@
 ## Weekend Homework
 
 #### Demo Site
-- [Demo](highchart-intro-3.bitballoon.com)
+- [Demo](http://highchart-intro-3.bitballoon.com)
 
 #### Data Source
 - [Data Source](https://www.quandl.com/api/v1/datasets/BTS_MM/RETAILGAS.json?trim_start=1995-01-02&trim_end=2012-10-15&auth_token=E6kNzExHjay2DNP8pKvB)
